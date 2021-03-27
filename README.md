@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsk93
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MEAN Stack Web Development
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently learning MEAN Stack Web Development.
 - 💞️ I’m looking to collaborate on Open Sourced Backend Projects especially Microservices based on NestJS.
 - 📫 How to reach me kumar.sumit9981@gmail.com
 
